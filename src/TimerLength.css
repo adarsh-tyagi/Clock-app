@@ -1,0 +1,32 @@
+.outer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem 0.8rem;
+  font-size: 1rem;
+  font-family: monospace;
+  text-align: center;
+}
+
+.inner-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0.2rem 0.4rem;
+  align-items: center;
+  width: 100%;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.inner-container button {
+  padding: 0.2rem 0.7rem;
+  background-color: #1e3a8a;
+  color: whitesmoke;
+  font-size: 0.8rem;
+  font-weight: bold;
+  outline: none;
+}
+.inner-container button:hover {
+  background-color: black;
+}
