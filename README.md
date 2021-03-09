@@ -1,4 +1,4 @@
-# 25+5 Clocl
+# 25+5 Clock
 
 - This app is developed in react.
 - User can use this clock. User can set the session time limit and break time limit, can pause/play and reset the time also.
